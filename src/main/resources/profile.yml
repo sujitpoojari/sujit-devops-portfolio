@@ -1,0 +1,58 @@
+profile:
+  name: "Sujit Kumar S. Poojari"
+  role: "Senior DevOps Engineer / Development Team Lead"
+  experience: "10+ Years"
+  location: "Mumbai, India"
+  email: "sujitpoojari@hotmail.com"
+
+summary: >
+  Results-driven DevOps Engineer with 10+ years of experience in cloud infrastructure,
+  CI/CD automation, containerization, and team leadership across AWS and Azure ecosystems.
+
+experience:
+  - company: "Accenture Solutions Pvt. Ltd."
+    role: "Development Team Lead - DevOps Engineer (L9)"
+    duration: "Mar 2021 – Present"
+    highlights:
+      - "Led and mentored DevOps teams across multiple client engagements"
+      - "Designed Kubernetes and container-based platforms improving deployment efficiency"
+      - "Built GitLab CI pipelines for microservices"
+      - "Implemented Terraform and CloudFormation for IaC"
+
+  - company: "Tata Consultancy Services"
+    role: "DevOps Engineer & Project Leader"
+    duration: "Oct 2015 – Mar 2021"
+    highlights:
+      - "Built Jenkins CI/CD pipelines for 21+ enterprise applications"
+      - "Migrated applications to Azure IaaS and PaaS"
+      - "Integrated SonarQube and security scanning tools"
+      - "Implemented Docker and Kubernetes adoption"
+
+skills:
+  Cloud:
+    - AWS
+    - Azure
+  Containers:
+    - Docker
+    - Kubernetes
+    - Podman
+    - Helm
+  CI_CD:
+    - Jenkins
+    - GitLab CI
+    - Azure DevOps
+    - GitHub Actions
+  IaC:
+    - Terraform
+    - CloudFormation
+  Monitoring:
+    - Prometheus
+    - Grafana
+    - CloudWatch
+    - New Relic
+
+awards:
+  - "Accenture ACE Award (2024)"
+  - "TCS Young Achiever (2018)"
+  - "Technical Excellence Award"
+  - "Best Team Award"
