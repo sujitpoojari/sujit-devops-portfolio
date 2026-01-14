@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sujit-portfolio
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sujit-portfolio
+  template:
+    metadata:
+      labels:
+        app: sujit-portfolio
+    spec:
+      containers:
+      - name: sujit-portfolio
+        image: sujit-devops-portfolio:1.0
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 9090
