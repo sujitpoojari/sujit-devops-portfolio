@@ -66,6 +66,10 @@ This repository represents the **application layer** in a complete DevOps lifecy
 Following are commands used to start app on system restart - 
 cd C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 
+Make sure minikube is running if not the start minikube with following command -
+- minikube start
+- kubectl get nodes
+
 - kubectl apply -f k8s-deployment.yaml
 - kubectl apply -f k8s-service.yaml
 - kubectl get pods
