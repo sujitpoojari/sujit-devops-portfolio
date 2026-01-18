@@ -66,11 +66,10 @@ This repository represents the **application layer** in a complete DevOps lifecy
 Following are commands used to start app on system restart - 
 cd C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 
-kubectl apply -f k8s-deployment.yaml
-kubectl apply -f k8s-service.yaml
-kubectl get pods
-kubectl get services
-kubectl describe svc sujit-portfolio-service
-minikube service sujit-portfolio-service
-minikube ip
-
+- kubectl apply -f k8s-deployment.yaml
+- kubectl apply -f k8s-service.yaml
+- kubectl get pods
+- kubectl get services
+- kubectl describe svc sujit-portfolio-service
+- minikube service sujit-portfolio-service
+- minikube ip
