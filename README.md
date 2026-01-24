@@ -2,8 +2,6 @@
 
 This repository contains a **Java (Spring Boot) based portfolio application** that presents my professional background, experience, and DevOps expertise in a clean, structured, and web-accessible format.
 
-This repository is intentionally kept **application-focused only** and does **not** contain CI/CD pipelines, infrastructure code, or Kubernetes manifests.
-
 ---
 
 ## 🎯 Objective
